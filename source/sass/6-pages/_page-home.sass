@@ -1,49 +1,126 @@
-body
-  height: 100%
-  display: flex
-  justify-content: center
-  align-items: center
+#header
+  background: url("../img/20171022_chinahatmaybe.jpg") no-repeat
+  background-size: cover
+  height: 770px
+  color: white
+  text-align: center
+  overflow: auto
 
+  /*img
+    max-width: 500px
+    width: 100%*/
 
-#page-home
-  margin: 20px
-  display: flex
+  article
+    width: 80%
+    margin: 0 auto
 
-
-.author
-  margin-top: 100px
+  h1
+    margin-bottom: 10px
+    color: white
+    text-align: center
   p
-    margin: 0
+    text-align: center
+    margin-bottom: 50px
 
-.avatar
-  width: 80px
-  height: 80px
-  border-radius: 50%
-  margin: 20px 0 0
-  -ms-flex-negative: 0
-  flex-shrink: 0
 
-.wrapper-starter
-  width: 100%
-  max-width: 700px
+.main-nav
+  display: flex
+  margin-top: 20px
+  padding: 0
+
+  li
+    list-style: none
+  li:first-child
+    margin-right: auto
+  a
+    color: white
+    display: block
+    border-radius: 4px
+    padding: 15px 30px
+    text-decoration: none
+    font-weight: 700
+    text-transform: uppercase
+
+a.download
   background: white
-  padding: 40px
-  border-radius: 2px
-  box-shadow: 0 2px 20px rgba(0,0,0, 0.7)
+  color: $chocolate
+  box-shadow: 0 12px 10px -10px rgba(0, 0, 0, 0.3)
+  margin-left: 25px
+
+#brands ul
+  margin: 0
+  padding: 50px 10px
+  color: $chocolate
+  display: grid
+  grid-template-columns: repeat(3, auto)
+  @media only screen and (max-width: 550px)
+    grid-template-columns: repeat(3, auto)
+
+
+  li img
+    max-width: 500px
+    width: auto
+    /*box-shadow: 0 12px 10px -10px rgba(0, 0, 0, 0.3)*/
+
+  li
+    list-style: none
+  li:last-child
+    margin-right: auto
+    align-self: flex-end
+
+  h1
+    color: #DDBB00
+    margin-bottom: 10px
+  p
+    color: $chocolate
+
+.pocketpwr
+  width: 80%
+
+#features
+  background: url("../img/midsection.svg")
+  background-size: cover
+  /*height: 500px*/
   text-align: center
 
+  h2
+    margin: 20px
+    color: $chocolate
+    margin-bottom: 10px
+
+  h3
+    color: $chocolate
+    margin-bottom: 10px
+
   p
-    color: #666
+    color: $chocolate
 
-h1
-  margin-bottom: 20px
-h4
-  margin-top: 100px
+.cards
+  display: grid
+  grid-template-columns: repeat(3, auto)
+/*align-content: start
+  margin-top: 10px
+  border-radius: 10px
+  padding: 0px 30px
+  grid-gap: 10px
+  margin-bottom: 20px*/
 
-.button
-  margin-top: 50px
-  border: 2px solid $blue
-  color: $blue
+.feature-card1
+  padding: 20px
 
-.flex-video
-  border: 1px solid black
+.feature-card2
+  padding: 20px
+
+.feature-card3
+  padding: 20px
+
+
+#footer1
+  text-align: center
+  background: $chocolate
+  height: 100px
+
+  article
+    width: 80%
+    margin: 0 auto
+    color: white

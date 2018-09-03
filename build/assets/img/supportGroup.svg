@@ -1,0 +1,20 @@
+<svg width="300" height="179" viewBox="0 0 300 179" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="178.675" fill="black" fill-opacity="0"/>
+<rect width="300" height="178.675" rx="25" fill="#332200"/>
+<rect width="94" height="94" fill="black" fill-opacity="0" transform="translate(103 39)"/>
+<rect width="94" height="94" fill="black" fill-opacity="0" transform="translate(103 39)"/>
+<path d="M150 107.364C161.799 107.364 171.364 97.7988 171.364 86C171.364 74.2012 161.799 64.6364 150 64.6364C138.201 64.6364 128.636 74.2012 128.636 86C128.636 97.7988 138.201 107.364 150 107.364Z" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M150 128.727C173.598 128.727 192.727 109.598 192.727 86C192.727 62.4024 173.598 43.2727 150 43.2727C126.402 43.2727 107.273 62.4024 107.273 86C107.273 109.598 126.402 128.727 150 128.727Z" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M141.455 44.1273V66.4139" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M158.545 44.1273V66.4139" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M191.873 77.4546H169.586" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M191.873 94.5454H169.586" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M158.545 127.873V105.586" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M141.455 127.873V105.586" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M108.127 94.5454H130.414" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M108.127 77.4546H130.414" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M103 62.5C103 49.5216 113.522 39 126.5 39" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M173.5 39C186.478 39 197 49.5216 197 62.5" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M197 109.5C197 122.478 186.478 133 173.5 133" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M126.5 133C113.522 133 103 122.478 103 109.5" stroke="#DDBB00" stroke-width="3" stroke-miterlimit="10" stroke-linecap="square"/>
+</svg>
