@@ -1,3 +1,4 @@
+
 # Jesse Showalter Website Project Starter Kit
 
 This is how I start my project, maybe you can use it too :) This  starter file is a collection of things I have learned over the years, code snippets I have created, and others that were collected from other people who are smarter than me to make something I really enjoy using.
@@ -36,7 +37,7 @@ Once you have the project open you should be able to open your terminal and type
 * **vendors**: Copy the vendors to the build folder
 * **watch**: Watch for any changes on the each section
 
-The `gulp` command is the best choice for you most likley. Go to the project folder in the console and execute `gulp`, it will compile the project and start a server that will refresh every time you change something in the code. Gulp will be watching for changes and will tell you how to access the project from local and public url. Every browser that points to that url will be auto refreshed. As an extra feature for testing purposes, any interaction on one browser will be reflected on any others. Try it on a phone, tablet and pc at the same time.
+The `gulp` command is the best choice for you most likely. Go to the project folder in the console and execute `gulp`, it will compile the project and start a server that will refresh every time you change something in the code. Gulp will be watching for changes and will tell you how to access the project from local and public url. Every browser that points to that url will be auto refreshed. As an extra feature for testing purposes, any interaction on one browser will be reflected on any others. Try it on a phone, tablet and pc at the same time.
 
 Once you have the project running in the terminal you can delete the partial
 ```
